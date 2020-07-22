@@ -1,0 +1,22 @@
+[
+  {
+    "name": "mario",
+    "age": "20",
+    "belt": "black"
+  },
+  {
+    "name": "david",
+    "age": "25",
+    "belt": "black"
+  },
+  {
+    "name": "luiz",
+    "age": "32",
+    "belt": "white"
+  },
+  {
+    "name": "montana",
+    "age": "28",
+    "belt": "white"
+  }
+]
